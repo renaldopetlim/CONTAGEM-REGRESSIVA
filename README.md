@@ -5,6 +5,7 @@ Projeto desenvolvido durante o módulo iniciante do curso de Formação em Tecno
 Tecnologias Usadas:
 • HTML
 • CSS
+• JavaScript
 
 Link: https://projeto-contagem-regressiva.netlify.app/
 

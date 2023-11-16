@@ -9,7 +9,7 @@ Tecnologias Usadas:
 Link: https://projeto-contagem-regressiva.netlify.app/
 
 ### Responsividade Desktop:
-<img src="/readme/cronometro-pc.png" width="480px">
+<img src="/readme/cronometro-desktop.png" width="480px">
 
 ### Responsividade Mobile:
 <img src="/readme/cronometro-mobile.png" width="480px">

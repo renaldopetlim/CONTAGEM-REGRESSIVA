@@ -13,7 +13,7 @@ Link: https://projeto-contagem-regressiva.netlify.app/
 <img src="/readme/cronometro-desktop.png" width="480px">
 
 ### Responsividade Mobile:
-<img src="/readme/cronometro-mobile.png" width="480px">
+<img src="/readme/cronometro-mobile.jpg" width="480px">
 
 ### Page Speed Insights Desktop:
 <img src="/readme/page-speed-insights-desktop.png" width="640px">

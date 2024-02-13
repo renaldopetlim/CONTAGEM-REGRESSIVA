@@ -1,4 +1,4 @@
-# PROJETO CRONOMETRO-REGRESSIVA
+# PROJETO CRONOMETRO-REGRESSIVO
 
 Projeto desenvolvido durante o módulo iniciante do curso de Formação em Tecnologia da Escola DNC.
 

@@ -1,4 +1,4 @@
-# PROJETO CONTAGEM-REGRESSIVA
+# PROJETO CRONOMETRO-REGRESSIVA
 
 Projeto desenvolvido durante o módulo iniciante do curso de Formação em Tecnologia da Escola DNC.
 
